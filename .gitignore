@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Virtual environment
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Local data or knowledge files
+my_docs/
+
+# Ollama or LLM cache/output (if any)
+*.bin
+*.ckpt
+*.pt
+*.onnx
+
+# Slack token backup or local test files
+secrets.json
+token.txt

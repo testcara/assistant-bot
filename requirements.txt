@@ -1,0 +1,17 @@
+# Web framework
+Flask==3.0.2
+
+# Environment variable loader
+python-dotenv==1.0.1
+
+# HTTP client for Slack API or other web APIs
+requests==2.32.3
+
+# Text splitting and simple keyword matching (if used)
+tiktoken==0.7.0
+
+# Optional: For logging enhancement (if needed)
+coloredlogs==15.0.1
+
+# Optional: doing any Markdown parsing
+markdown2==2.4.13
